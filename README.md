@@ -1,2 +1,2 @@
 # Handwriting-NN
-generates handwritten digits
+Generates handwritten digits
